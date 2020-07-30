@@ -24,6 +24,7 @@ p {
   line-height: 0;
   height: auto;
   color: rgba(255, 255, 255, 0.9);
+  text-shadow: 1.5px 1.5px rgb(54, 54, 54);
 }
 .parallax-container .section {
   width: 100%;
